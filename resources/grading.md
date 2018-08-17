@@ -1,6 +1,6 @@
 # CSCI 1102 Computer Science 2
 
-### Spring 2018
+### Fall 2018
 
 ---
 

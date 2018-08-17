@@ -1,6 +1,6 @@
 # CSCI 1102 Computer Science 2
 
-### Spring 2018
+### Fall 2018
 
 ---
 
@@ -10,7 +10,11 @@ One of the central issues in computer science is the question of how to represen
 
 This course is primarily concerned with the design and development of efficient data structures and algorithms. A second major theme is to further develop the student's software development skills. To that end we will stress programming methodology (e.g., data abstraction, modularity, good documentation) and we will make use of state of the art software engineering tools. This is very much a hands-on course. By the end of the course you should be able to design fairly complex programs that do interesting and useful things.
 
-**CSCI 1102 Computer Science 2, meets in Fulton Hall 415, T Th 9AM — 10:15AM**.
+**CSCI 1102 Computer Science 2, meets in Fulton Hall 250**
+
++ **Section 01 meets Tuesdays & Thursdays 12PM — 1:15PM**;
+
++ **Section 02 meets Tuesdays & Thursdays 1:30PM -- 2:45PM**.
 
 ### Screens When and Where
 

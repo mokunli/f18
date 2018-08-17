@@ -1,6 +1,6 @@
 # CSCI 1102 Computer Science 2
 
-### Spring 2018
+### Fall 2018
 
 ---
 
@@ -25,8 +25,6 @@ This book is available in limited supply in the BC Bookstore and through [Amazon
 [Effective Java (Third Edition)](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997), by Joshua Bloch. **(Required)**
 
 Every serious Java programmer should have Effective Java on their bookshelf.  The author has an excellent understanding of Java and software engineering principles in general. The book dispenses great advice on writing good Java code.
-
-**NB: The publisher seems to be just ramping up production of the third edition as of Jan 2018. You can buy the second edition if you like or you can wait a few weeks to see if the third edition is available.**
 
 Effective Java is available through [Amazon](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997) for about \$42.
 
