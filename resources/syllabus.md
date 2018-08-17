@@ -1,16 +1,19 @@
 # CSCI 1102 Computer Science 2
 
-### Spring 2018
+### Fall 2018
 
 ---
 
 ## Syllabus
 
-**Meets:** Tuesdays & Thursdays 9AM — 10:15AM, Fulton Hall 415. 
+**Meets:** In Fulton Hall 250.
+
++ Section 01 Tuesdays & Thursdays 12PM — 1:15PM,
++ Section 02 Tuesdays & Thursdays 1:30PM -- 2:45PM. 
 
 This course is primarily concerned with the design and development of efficient data structures and algorithms. A second major theme is to further develop the student's software development skills.
 
-**Course Homepage:** https://github.com/BC-CSCI1102/s18
+**Course Homepage:** https://github.com/BC-CSCI1102/f18
 
 **Note:** Open laptops are not allowed in lecture.
 
@@ -22,12 +25,14 @@ This course is primarily concerned with the design and development of efficient 
 
 **Instructor:** [Robert Muller](http://www.cs.bc.edu/~muller/)
 
-**Office Hours:**  Mondays 10AM — 12PM, Tuesdays 2PM — 4PM, St. Mary's South 277.
+**Office Hours:**  Tuesdays 3PM — 5PM, Wednesdays 10AM - 12PM, St. Mary's South 277.
 
 **Teaching Assistants:**
 
-+ **Jacob Bennett**: Office Hours Wednesdays 1PM — 3PM, Fulton Hall 160;
-+ **Shaan Bijwadia**: Office Hours Fridays 1PM — 4PM, Fulton Hall 160.
++ **Brendan Gregory** (gregorbc): Office Hours Saturdays 12PM - 3PM, Fulton Hall 160;
++ **William (Billy) Hufnagle** (hufnaglw): Office Hours Saturdays 3PM - 6PM, Fulton Hall 160;
++ **Darius Russell Kish** (russeldk): Office Hours Mondays & Wednesdays 7PM - 8PM, Fulton Hall 160;
++ **Yuning (Tommy) Yang** (yangaeb): Office Hours Thursdays 5PM - 6PM, Fulton Hall 160.
 
 #### Texts
 
@@ -54,12 +59,12 @@ This course is primarily concerned with the design and development of efficient 
 6. More on Orders and Comparability The Priority Queue ADT, Binary Heaps.
 7. Binary Heaps, Heapsort, Priority Queues
 8. Maps/Symbol Tables, Huffman Coding, Bitwise Operations
-9. Simulating Sum Types in Java Mutable Maps
-10. Immutable Maps, **Second Exam**
-11. Binary Search Trees, Balanced Search Trees
-12. Balanced Search Trees, Game Trees
-13. Hashing
-14. String Matching, Regular Expressions
+9. Binary Search Trees
+10. Balanced Search Trees
+11. Hash Tables 
+12. Game Trees; Immutable Maps
+13. **Second Exam**
+14. Graphs
 15. Review and Catchup
 
 ---
@@ -84,7 +89,6 @@ Grades will be recorded on the Canvas website.
 + Late problem sets will be penalized 20% each day.
 + Students missing an exam without prior permission of the instructor will receive a zero for that exam unless they provide a note from their doctor.
 + Any violation of the [university's policy on academic integrity](http://www.bc.edu/offices/stserv/academic/integrity.html) will result in a failing grade for the course.
-
 
 ---
 
