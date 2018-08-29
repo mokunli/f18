@@ -32,7 +32,7 @@ This course is primarily concerned with the design and development of efficient 
 + **Brendan Gregory** (gregorbc): Office Hours Saturdays 12PM - 3PM, Fulton Hall 160;
 + **William (Billy) Hufnagle** (hufnaglw): Office Hours Saturdays 3PM - 6PM, Fulton Hall 160;
 + **Darius Russell Kish** (russeldk): Office Hours Mondays & Wednesdays 7PM - 8PM, Fulton Hall 160;
-+ **Yuning (Tommy) Yang** (yangaeb): Office Hours Thursdays 5PM - 6PM, Fulton Hall 160.
++ **Yuning (Tommy) Yang** (yangaeb): Office Hours Thursdays 5PM - 7PM, Fulton Hall 160.
 
 #### Texts
 
