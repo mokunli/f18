@@ -8,7 +8,7 @@
 
 **Instructor:** [Robert Muller](http://www.cs.bc.edu/~muller/)
 
-**Office:** St. Mary's South 277; Office Hours Tuesdays 3PM - 5PM, Wednesdays 10AM - 12PM.
+**Office:** St. Mary's South 277; Office Hours Mondays 10AM - 12PM, Tuesdays 3PM - 5PM.
 
 **Teaching Assistants:**
 
@@ -19,7 +19,7 @@
 
 ---
 
-[About](resources/about.md) —  [Textbooks](resources/textbooks.md) —  [Grading](resources/grading.md) —  [Canvas](https://bostoncollege.instructure.com/courses/1580576/gradebook)  —  [Piazza](https://piazza.com/class/jkyot7egr5120z) —  [Java SE8](https://docs.oracle.com/javase/8/docs/api/index.html?overview-summary.html) — [algs4](https://algs4.cs.princeton.edu/) — [algs4 GitHub](https://github.com/kevin-wayne/algs4)
+[About](resources/about.md) —  [Textbooks](resources/textbooks.md) —  [Grading](resources/grading.md) —  [Canvas](https://bostoncollege.instructure.com/courses/1590628/gradebook)  —  [Piazza](https://piazza.com/class/jkyot7egr5120z) —  [Java SE8](https://docs.oracle.com/javase/8/docs/api/index.html?overview-summary.html) — [algs4](https://algs4.cs.princeton.edu/) — [algs4 GitHub](https://github.com/kevin-wayne/algs4)
 
 ---
 
