@@ -29,15 +29,15 @@
 | :----------------------------------------: | :--: | :--------: | :----------------------------------------------------------- |
 | [1](https://github.com/BC-CSCI1102/week01) |  1   | T 08/28/18 | Overview, Administration, Java Setup and Introduction.       |
 |                                            |  2   | R 08/30/18 | Introduction to Java; libraries, compilation & execution     |
-| [2](https://github.com/BC-CSCI1102/week2)  |  3   | T 09/04/18 | ADTs — specifications & implementations                      |
-|                                            |  4   | R 09/06/18 | Understanding `static` and `this` in Java                    |
-| [3](https://github.com/BC-CSCI1102/week3)  |  5   | T 09/11/18 | The Java class Hierarchy; The StringStack ADT; postfix Expression Evaluation |
+| [2](https://github.com/BC-CSCI1102/week02) |  3   | T 09/04/18 | ADTs — specifications & implementations; Symbolic Representation |
+|                                            |  4   | R 09/06/18 | Memory/Storage; Understanding `static` and `this` in Java    |
+|                     3                      |  5   | T 09/11/18 | The Java class Hierarchy; The StringStack ADT; postfix Expression Evaluation |
 |                                            |  6   | R 09/13/18 | Parametric Polymorphism/Generics and code Reuse; Sequential VS Linked Representations of the Generic Stack ADT. |
-| [4](https://github.com/BC-CSCI1102/week4)  |  7   | T 09/18/18 | Linked & Sequential Representations of the Generic Stack ADT |
+|                     4                      |  7   | T 09/18/18 | Linked & Sequential Representations of the Generic Stack ADT |
 |                                            |  8   | R 09/20/18 | The Queue ADT: A linked implementation                       |
-| [5](https://github.com/BC-CSCI1102/week5)  |  9   | T 09/25/18 | The Queue ADT: A circular sequential implementation; the Deque ADT |
+|                     5                      |  9   | T 09/25/18 | The Queue ADT: A circular sequential implementation; the Deque ADT |
 |                                            |  10  | R 09/27/18 | Order-sensitive data structures — the Priority Queue ADT; Sets & Trees |
-| [6](https://github.com/BC-CSCI1102/week6)  |  11  | T 10/02/18 | Binary Heap implementation of PQ ADT; Heapsort               |
+|                     6                      |  11  | T 10/02/18 | Binary Heap implementation of PQ ADT; Heapsort               |
 |                                            |  12  | R 10/04/18 | **First Exam**                                               |
 |                     7                      |      | T 10/09/18 | **No Meeting**                                               |
 |                                            |  13  | R 10/11/18 | Relations; Orders and Comparability; Orders, Equality; Maps  |
