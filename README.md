@@ -35,7 +35,7 @@
 |                                            |  6   | R 09/13/18 | Parametric Polymorphism/Generics and code Reuse; Sequential VS Linked Representations of the Generic Stack ADT. |
 | [4](https://github.com/BC-CSCI1102/week04) |  7   | T 09/18/18 | The Queue ADT: A circular sequential implementation          |
 |                                            |  8   | R 09/20/18 | The Queue ADT: A linked implementation; the Deque ADT        |
-|                     5                      |  9   | T 09/25/18 |                                                              |
+| [5](https://github.com/BC-CSCI1102/week05) |  9   | T 09/25/18 | Aspects of Java : exceptions etc.                            |
 |                                            |  10  | R 09/27/18 | Order-sensitive data structures — the Priority Queue ADT; Sets & Trees |
 |                     6                      |  11  | T 10/02/18 | Binary Heap implementation of PQ ADT; Heapsort               |
 |                                            |  12  | R 10/04/18 | **First Exam**                                               |
