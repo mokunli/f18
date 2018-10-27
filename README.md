@@ -39,23 +39,23 @@
 |                                            |  10  | R 09/27/18 | Order-sensitive data structures — the Priority Queue ADT; Sets & Trees |
 |                     6                      |  11  | T 10/02/18 | Binary Heap implementation of PQ ADT; Heapsort               |
 |                                            |  12  | R 10/04/18 | **First Exam**                                               |
-|                     7                      |      | T 10/09/18 | **No Meeting**                                               |
-|                                            |  13  | R 10/11/18 | Relations; Orders and Comparability; Orders, Equality; Maps  |
-|                     8                      |  14  | T 10/16/18 | Analysis of Work; Big-O notation                             |
-|                                            |  15  | R 10/18/18 | The Huffman Coding Algorithm                                 |
-|                     9                      |  16  | T 10/23/18 | Binary & Hex; Working with Bits in high-level languages      |
-|                                            |  17  | R 10/25/18 | Binary Search Trees                                          |
-|                     10                     |  18  | T 10/30/18 | Balanced Binary Search Trees; 2-3 Trees & Red/Black Trees    |
-|                                            |  19  | R 11/01/18 | More on Red/Black Trees                                      |
-|                     11                     |  20  | T 11/06/18 | Hashing and Hash Tables                                      |
-|                                            |  21  | R 11/08/18 | Double Hashing                                               |
-|                     12                     |  22  | T 11/13/18 | Game Trees: Minimaxing                                       |
-|                                            |  23  | R 11/15/18 | Immutable Data Structures; Immutable Lists                   |
+| [7](https://github.com/BC-CSCI1102/week07) |      | T 10/09/18 | **No Meeting**                                               |
+|                                            |  13  | R 10/11/18 | Sets & relations; equivalence relations (`equals`); partial & total orders (`compareTo`) |
+| [8](https://github.com/BC-CSCI1102/week08) |  14  | T 10/16/18 | Exam Review; Partial Maps                                    |
+|                                            |  15  | R 10/18/18 | Maps with unordered keys: simple sequential & linked implementations |
+| [9](https://github.com/BC-CSCI1102/week09) |  16  | T 10/23/18 | Shannon Day: PS6 -- Shannon's n-gram model of English text; PS7 & PS8 --the Huffman coding algorithm |
+|                                            |  17  | R 10/25/18 | Binary numerals; hex; Working with bits in Java              |
+|                     10                     |  18  | T 10/30/18 | Hash Tables                                                  |
+|                                            |  19  | R 11/01/18 | Double Hashing                                               |
+|                     11                     |  20  | T 11/06/18 | Maps with ordered keys: sorted sequential representation -- binary search |
+|                                            |  21  | R 11/08/18 | linked representations: skip lists; binary search trees      |
+|                     12                     |  22  | T 11/13/18 | Balanced search trees; 2-3 trees; Red/Black Trees            |
+|                                            |  23  | R 11/15/18 | Red/Black Trees                                              |
 |                     13                     |  24  | T 11/20/18 | **Second Exam**                                              |
 |                                            |      | R 11/22/18 | **Thanksgiving**                                             |
-|                     14                     |  25  | T 11/27/18 | Mergesort; Deep vs Shallow Copying                           |
-|                                            |  26  | R 11/29/18 | Graphs & their representations                               |
-|                     15                     |  27  | T 12/04/18 | Dijkstra's Shortest Path Algorithm                           |
+|                     14                     |  25  | T 11/27/18 | Analysis of Work; Big-O notation                             |
+|                                            |  26  | R 11/29/18 | Mergesort: Sequential & Linked                               |
+|                     15                     |  27  | T 12/04/18 | Quicksort: Sequential & Linked                               |
 |                                            |  28  | R 12/06/18 | **Last Meeting** Review and wrap-up                          |
 
 
